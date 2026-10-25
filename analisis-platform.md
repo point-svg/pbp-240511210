@@ -4,12 +4,12 @@
 
 | Aspek | Web | Desktop | Mobile |
 |---|---|---|---|
-| Bahasa utama | CSS, Javascript, dan HTML | Java, Python C++, dan C# | Dart, Swift, Java, dan Kotlin |
-| Arsitektur | Browser mengakses layanan melalui server | Program berjalan pada sistem operasi komputer | Aplikasi native atau lintas platform |
-| Cara distribusi | Diakses melalui alamat situs menggunakan browser | Dipasang melalui installer atau toko aplikasi | Dipasang melalui toko aplikasi atau distribusi langsung |
-| Keunggulan | Dapat diakses dari berbagai perangkat tanpa instalasi khusus | Cocok untuk pekerjaan yang membutuhkan kemampuan komputer | Praktis digunakan saat bepergian dan dapat memanfaatkan fitur sensor perangkat |
-| Keterbatasan | Fitur tertentu bergantung pada browser dan koneksi jaringan | Perlu mempertimbangkan proses instalasi dan kompatibilitas sistem operasi | Dipengaruhi ukuran layar, baterai, dan kemampuan perangkat |
-| Contoh aplikasi | Google Docs versi browser | Visual Studio Code | Google Maps pada smartphone |
+| Bahasa utama | HTML untuk menyusun halaman, CSS untuk mengatur tampilan, serta JavaScript untuk menambahkan interaksi | C# dan .NET, Java, C++, atau Python untuk membangun program komputer | Kotlin dan Java untuk Android, Swift untuk iOS, serta Dart dengan Flutter untuk aplikasi lintas platform |
+| Arsitektur | Interface ditampilkan melalui browser dan dapat mengambil atau mengirim data ke server | Aplikasi diproses oleh sistem operasi komputer dan dapat menggunakan layanan maupun penyimpanan lokal | Aplikasi berjalan pada sistem operasi perangkat seluler dan dapat terhubung dengan server melalui API |
+| Cara distribusi | Pengguna membuka aplikasi melalui alamat website tanpa memasang program secara terpisah | Pengguna mengunduh dan memasang paket aplikasi yang sesuai dengan sistem operasinya | Pengguna memasang aplikasi melalui toko aplikasi atau paket instalasi yang didukung perangkat |
+| Keunggulan | Dapat digunakan melalui berbagai perangkat yang memiliki browser dan lebih mudah diperbarui dari sisi server | Dapat digunakan untuk pekerjaan kompleks serta mendukung pengelolaan file dan integrasi dengan perangkat komputer | Mendukung penggunaan saat bepergian dan dapat memanfaatkan kamera, GPS, notifikasi, serta sensor perangkat |
+| Keterbatasan | Penggunaan fitur tertentu bergantung pada dukungan browser dan akses jaringan apabila aplikasi memerlukannya | Distribusi dan pemeliharaan perlu memperhatikan kompatibilitas dengan sistem operasi pengguna | Pengembang perlu memperhatikan perbedaan perangkat, ukuran layar, konsumsi baterai, dan versi sistem operasi |
+| Contoh aplikasi | Google Classroom versi web | Visual Studio Code | Google Maps pada smartphone |
 
 ## 2. Referensi
 
