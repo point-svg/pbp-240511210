@@ -4,7 +4,7 @@
 
 | Aspek | Web | Desktop | Mobile |
 |---|---|---|---|
-| Bahasa utama | HTML, CSS, dan JavaScript | Java, C#, C++, dan Python | Kotlin, Java, Swift, dan Dart |
+| Bahasa utama | CSS, Javascript, dan HTML | Java, Python C++, dan C# | Dart, Swift, Java, dan Kotlin |
 | Arsitektur | Browser mengakses layanan melalui server | Program berjalan pada sistem operasi komputer | Aplikasi native atau lintas platform |
 | Cara distribusi | Diakses melalui alamat situs menggunakan browser | Dipasang melalui installer atau toko aplikasi | Dipasang melalui toko aplikasi atau distribusi langsung |
 | Keunggulan | Dapat diakses dari berbagai perangkat tanpa instalasi khusus | Cocok untuk pekerjaan yang membutuhkan kemampuan komputer | Praktis digunakan saat bepergian dan dapat memanfaatkan fitur sensor perangkat |
@@ -13,14 +13,14 @@
 
 ## 2. Referensi
 
-1. MDN Web Docs. (n.d.). *Progressive web apps*. https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+1. World Wide Web Consortium (W3C). (n.d.). Web Standards. https://www.w3.org/standards/
 
-2. Microsoft Learn. (n.d.). *Windows app development documentation*. https://learn.microsoft.com/en-us/windows/apps/desktop
+2. Mozilla Developer Network (MDN). (n.d.). Web technology for developers. https://developer.mozilla.org/en-US/docs/Web
 
-3. Android Developers. (n.d.). *Guide to app architecture*. https://developer.android.com/topic/architecture
+3. Flutter. (n.d.). Architectural overview. https://docs.flutter.dev/resources/architectural-overview
 
-4. Android Developers. (n.d.). *Publish your app*. https://developer.android.com/studio/publish
-
+4. Apple Developer. (n.d.). App design and UI. https://developer.apple.com/documentation/technologyoverviews/app-design-and-ui
+   
 ## 3. Refleksi
 
 Dari ketiga platform yang dipelajari, saya paling tertarik pada Mobile karena ingin mengetahui proses pembuatan aplikasi Android dari sisi pengembang. Selama ini, saya lebih sering melihat smartphone sebagai alat untuk menjalankan aplikasi. Melalui pembelajaran ini, saya ingin mulai memahami bagaimana sebuah aplikasi dibuat, mulai dari penulisan kode hingga dapat digunakan pada perangkat. Menurut saya, mempelajari Android juga dapat menjadi bekal untuk mengembangkan proyek yang berkaitan dengan kebutuhan sehari-hari.
